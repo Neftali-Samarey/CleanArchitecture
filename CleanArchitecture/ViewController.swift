@@ -9,6 +9,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // Interactor object reference
+    // Router object reference
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.

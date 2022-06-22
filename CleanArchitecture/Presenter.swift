@@ -8,5 +8,6 @@
 import Foundation
 
 class Presenter {
-    //
+
+    // Wear reference to view controller object
 }

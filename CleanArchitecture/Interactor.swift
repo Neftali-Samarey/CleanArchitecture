@@ -8,5 +8,6 @@
 import Foundation
 
 class Interactor {
-    //
+
+    // Presenter object reference
 }
